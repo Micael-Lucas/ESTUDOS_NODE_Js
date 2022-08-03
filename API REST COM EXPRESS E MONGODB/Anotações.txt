@@ -1,0 +1,8 @@
+Para instalar o express npm install express@version (4.17.3)
+Uma boa pratica é sempre criar as pastas: 
+src
+
+sempre que formos importar informções de arquivos devemos adicionar ao package.json o ("type" : "module")
+
+https://expressjs.com/pt-br/starter/generator.html
+https://cursos.alura.com.br/course/nodejs-api-rest-express-mongodb/task/103625
